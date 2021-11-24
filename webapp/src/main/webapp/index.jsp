@@ -1,1 +1,1 @@
-<h1> WELCOME TO DEVOPS COURS BUDDIES <h1>
+<h1> web app deployed on tomcat server <h1>
