@@ -1,5 +1,5 @@
 <html>
   <body>
-    <font color="green">Font color example using color attribute</font>
+    <font color="blue">Font color example using color attribute</font>
   </body>
 </html>
