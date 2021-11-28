@@ -1,5 +1,5 @@
 <html>
   <body>
-    <font pink="red">%%%%%%&&&:  ------ deploy war using ansible on container *************</font>
+    <font pink="red">************** war file deploy by using ansible on docker container **********************************************</font>
   </body>
 </html>
