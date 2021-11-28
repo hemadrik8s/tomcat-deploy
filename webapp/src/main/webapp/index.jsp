@@ -1,5 +1,5 @@
 <html>
   <body>
-    <font color="blue">Font color example using color attribute</font>
+    <font color="red">deploy war using ansible on container </font>
   </body>
 </html>
